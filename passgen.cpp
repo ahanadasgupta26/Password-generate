@@ -5,8 +5,8 @@
 using namespace std;
 string getpass(int len)
 {
-	string pass="";
-	string lower="abcdefghijklmnopqrstuvwxyz";
+    string pass="";
+    string lower="abcdefghijklmnopqrstuvwxyz";
     string upper="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     string digits="0123456789";
     string spl_chars="!@#$%^&*()-_=+[]{}|;:,.<>?/";
